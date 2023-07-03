@@ -1,0 +1,51 @@
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\appsettings.Development.json
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\appsettings.json
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak API.exe
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak API.deps.json
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak API.runtimeconfig.json
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak API.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak API.pdb
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\IdentityModel.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\IdentityModel.AspNetCore.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak.AuthServices.Authentication.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak.AuthServices.Common.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak.AuthServices.Authorization.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Keycloak.AuthServices.Sdk.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Refit.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Refit.HttpClientFactory.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\System.Text.Json.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.csproj.AssemblyReference.cache
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.AssemblyInfoInputs.cache
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.AssemblyInfo.cs
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\staticwebassets\msbuild.Keycloak API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\staticwebassets\msbuild.build.Keycloak API.props
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Keycloak API.props
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Keycloak API.props
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\staticwebassets.build.json
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\staticwebassets.development.json
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\scopedcss\bundle\Keycloak API.styles.css
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.csproj.CopyComplete
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\refint\Keycloak API.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.pdb
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\Keycloak API.genruntimeconfig.cache
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\obj\Debug\net7.0\ref\Keycloak API.dll
+E:\WorkSpace\DOT NET\Keycloak API\Keycloak API\bin\Debug\net7.0\Newtonsoft.Json.dll
